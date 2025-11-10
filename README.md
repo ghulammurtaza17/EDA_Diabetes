@@ -40,7 +40,7 @@ It focuses on **data cleaning, imputation, and visualization** to understand how
 ## 🔗 Connect With Me
 
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/ghulam-murtaza-b24280331/recent-activity/all/
-- 💻 **GitHub:** [https://github.com/your-github-username/Diabetes-EDA](https://github.com/your-github-username/Diabetes-EDA)
+- 💻 **GitHub:** https://github.com/ghulammurtaza17/EDA_Diabetes.git
 
 ---
 
